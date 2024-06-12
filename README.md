@@ -1,4 +1,4 @@
-<img align="centre" height = 250 alt="coding"  width=100% src="https://ghgsystems.com/images/slider2.jpg">
+<img align="centre" alt="coding"  width=100% src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/619150/8cd073d07727879c9b306b56185cbfb7ad923eef.jpg">
 
 <h1 align="center">Hi 👋, I'm Mathavan.S</h1>
 <h3 align="center">Seeking to Enhance My Back-End Development Skills: A Learner from India</h3>
