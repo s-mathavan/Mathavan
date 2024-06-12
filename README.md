@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Programming Progress:</h3>
-<p><img align="left" width=46% src="https://github-readme-stats.vercel.app/api/top-langs?username=s-mathavan&show_icons=true&locale=en&layout=compact" alt="s-mathavan" /></p>  <p><img align="right" src="https://leetcard.jacoblin.cool/mathavan-s?theme=unicorn"> </p>
+<p><img align="left" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=s-mathavan&show_icons=true&locale=en&layout=compact" alt="s-mathavan" /></p>  <p><img align="right" src="https://leetcard.jacoblin.cool/mathavan-s?theme=unicorn"> </p>
  
 <br><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s-mathavan&show_icons=true&locale=en" alt="s-mathavan" /></p>
 
