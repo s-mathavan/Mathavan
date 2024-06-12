@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-mathavan&show_icons=true&locale=en&layout=compact" alt="s-mathavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-mathavan&show_icons=true&locale=en" alt="s-mathavan" /></p>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/mathavan-s?ext=heatmap)
