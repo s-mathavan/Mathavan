@@ -1,3 +1,5 @@
+<img align="centre" alt="coding"  width=100% src="https://th.bing.com/th/id/OIP.tiM6zVxoIgZfSfq73AVaDwHaDU?w=349&h=156&c=7&r=0&o=5&pid=1.7">
+
 <h1 align="center">Hi 👋, I'm Mathavan.S</h1>
 <h3 align="center">Seeking to Enhance My Back-End Development Skills: A Learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
@@ -5,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-mathavan&label=Profile%20views&color=0e75b6&style=flat" alt="s-mathavan" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, restful web services, spring security,kafka, flutter,css**
+- 🌱 I’m currently learning **Backend-development**
 
 - 📫 How to reach me **s.mathavanjayalakshmi@gmail.com**
 
