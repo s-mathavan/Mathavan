@@ -21,7 +21,8 @@
 <a href="https://www.leetcode.com/mathavan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mathavan-s" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-mathavan&show_icons=true&locale=en&layout=compact" alt="s-mathavan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-mathavan&show_icons=true&locale=en&layout=compact" alt="s-mathavan" /></p>  ![](https://leetcard.jacoblin.cool/mathavan-s?ext=heatmap)
+ 
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s-mathavan&show_icons=true&locale=en" alt="s-mathavan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-mathavan&show_icons=true&locale=en" alt="s-mathavan" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/mathavan-s?ext=heatmap)
+
